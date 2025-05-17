@@ -8,26 +8,26 @@ from pyrogram import filters
 load_dotenv()
 
 # Get this value from my.telegram.org/apps
-API_ID = int(getenv("API_ID", None))
-API_HASH = getenv("API_HASH", None)
+API_ID = int(getenv("API_ID","21636907"))
+API_HASH = getenv("API_HASH","54d4151f3586ab81f8e57c808d3ee3b0")
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = getenv("BOT_TOKEN", None)
+BOT_TOKEN = getenv("BOT_TOKEN","7732173919:AAGOQsF_f9rTMWL_gstdpF3qwSQAEra-Dtg")
 
 # Get your mongo url from cloud.mongodb.com
-MONGO_DB_URI = getenv("MONGO_DB_URI", None)
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", None)
+MONGO_DB_URI = getenv("MONGO_DB_URI","mongodb+srv://knight4563:knight4563@cluster0.a5br0se.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME","Anya_x_Music")
 PRIVATE_BOT_MODE = getenv("PRIVATE_BOT_MODE", None)
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 900))
 
 # Chat id of a group for logging bot's activities
-LOGGER_ID = int(getenv("LOGGER_ID", None))
+LOGGER_ID = int(getenv("LOGGER_ID","-1002556228441"))
 
 # Get this value from @BRANDRD_ROBOT on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", "7078181502"))
+OWNER_ID = int(getenv("OWNER_ID", "7495324168"))
 
-OWNER_USERNAME = getenv("OWNER_USERNAME","xeno_kakarot")
+OWNER_USERNAME = getenv("OWNER_USERNAME","@DEADCALAM")
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -37,15 +37,15 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Gokukhan1/faketry",
+    "https://github.com/SpyGamer7t2r/faketry",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/PiratesBotRepo")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/EMEhfg6KrlAzODU1")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/gxinfinity_support")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/infinitygx_bot_support")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
