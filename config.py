@@ -8,26 +8,26 @@ from pyrogram import filters
 load_dotenv()
 
 # Get this value from my.telegram.org/apps
-API_ID = int(getenv("API_ID","21636907"))
-API_HASH = getenv("API_HASH","54d4151f3586ab81f8e57c808d3ee3b0")
+API_ID = int(getenv("API_ID","18364048"))
+API_HASH = getenv("API_HASH","c1275185a2329f24af2c3541f21220b4")
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = getenv("BOT_TOKEN","7732173919:AAGOQsF_f9rTMWL_gstdpF3qwSQAEra-Dtg")
+BOT_TOKEN = getenv("BOT_TOKEN","7419873861:AAETBWFVp-924d2MgFrMBub1WwMHF_zWDTA")
 
 # Get your mongo url from cloud.mongodb.com
-MONGO_DB_URI = getenv("MONGO_DB_URI","mongodb+srv://knight4563:knight4563@cluster0.a5br0se.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME","Anya_x_Music")
+MONGO_DB_URI = getenv("MONGO_DB_URI","mongodb+srv://mikey:mikey@cluster0.zv6knh9.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME","Sangeet_x_Music")
 PRIVATE_BOT_MODE = getenv("PRIVATE_BOT_MODE", None)
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 900))
 
 # Chat id of a group for logging bot's activities
-LOGGER_ID = int(getenv("LOGGER_ID","-1002556228441"))
+LOGGER_ID = int(getenv("LOGGER_ID","-1002720878147"))
 
 # Get this value from @BRANDRD_ROBOT on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", "7495324168"))
+OWNER_ID = int(getenv("OWNER_ID", "5961413788"))
 
-OWNER_USERNAME = getenv("OWNER_USERNAME","@DEADCALAM")
+OWNER_USERNAME = getenv("OWNER_USERNAME","@itstruelyravi")
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -37,7 +37,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/SpyGamer7t2r/faketry",
+    "https://github.com/Gxinfinity/faketry",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
@@ -45,7 +45,7 @@ GIT_TOKEN = getenv(
 )  # Fill this variable if your upstream repository is private
 
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/gxinfinity_support")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/infinitygx_bot_support")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+rcCFODRdOJZlZjY1")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -77,7 +77,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 1073741824))
 
 
 # Get your pyrogram v2 session from @BRANDEDSTRINGSESSION_BOT on Telegram
-STRING1 = getenv("STRING_SESSION", None)
+STRING1 = getenv("STRING_SESSION1", "BQEYNpAAkT6OqmpP2CwJ-WdOWKF04XlBSxJcBVtNpHeQrkET-BaqMW0Wxl1BjybhHXOS0KDeHLHJpTYEosE_a__x-Ia6oV_1igjFbxBdynl15LilztbeYrn0-zYBU9orx1YmBBBvl_EQL64nxnkwaxddCT_Be0JZWkvY5vS8fwKLomLdMQHGa-dveruDyK3tuQSQClHh1_udOrX2TbzxbJJond62fx89I5jR7jDCSOB8QbNYDX6_SV0Aaglgm8VxNPa0M7xosbGFwEKtY1tHKogwnVUZeo7KlbrC2au0d9WGu3dRekS_Of2BdIBT_2AEiHAlb02LwyvSRL_Fqlnh6vV_iHezfAAAAAHaKs_CAA")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
@@ -93,7 +93,7 @@ autoclean = []
 confirmer = {}
 
 
-START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/t0t93h.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/a5c1e69220a8913c4c271-ca24b2f904e8ab971c.jpg")
 PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/lbl62s.jpg")
 PLAYLIST_IMG_URL = "https://files.catbox.moe/ka4lzo.jpg"
 STATS_IMG_URL = "https://files.catbox.moe/o82ph9.jpg"
