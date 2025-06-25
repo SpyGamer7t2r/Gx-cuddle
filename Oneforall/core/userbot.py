@@ -125,10 +125,10 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("lolpagalokigc")
-                await self.three.join_chat("PiratesBotRepo")
-                await self.three.join_chat("Hindi_new_Animes")
-                await self.three.join_chat("PiratesMainchat")
+                await self.three.join_chat("Meow_destiny_135")
+                await self.three.join_chat("Who_cares_qt")
+                await self.three.join_chat("Meow_destiny_135")
+                await self.three.join_chat("Who_cares_qt")
             except:
                 pass
             assistants.append(3)
@@ -148,10 +148,10 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("lolpagalokigc")
-                await self.four.join_chat("PiratesBotRepo")
-                await self.four.join_chat("Hindi_new_Animes")
-                await self.four.join_chat("PiratesMainchat")
+                await self.four.join_chat("Meow_destiny_135")
+                await self.four.join_chat("Who_cares_qt")
+                await self.four.join_chat("meow_destiny_135")
+                await self.four.join_chat("Who_cares_qt")
             except:
                 pass
             assistants.append(4)
@@ -171,10 +171,10 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("lolpagalokigc")
-                await self.five.join_chat("PiratesBotRepo")
-                await self.five.join_chat("Hindi_new_Animes")
-                await self.five.join_chat("PiratesMainchat")
+                await self.five.join_chat("Who_cares_qt")
+                await self.five.join_chat("Meow_destiny_135")
+                await self.five.join_chat("Who_cares_qt")
+                await self.five.join_chat("Meow_destiny_135")
             except:
                 pass
             assistants.append(5)
