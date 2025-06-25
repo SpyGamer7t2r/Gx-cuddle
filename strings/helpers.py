@@ -178,22 +178,22 @@ HELP_16 = """
     """
 
 HELP_17 = """
-  ANY ONE WANT TO BROADCAST THAN CONTECT [GOKU](https://t.me/xeno_kakarot) AND BUY BROADCAST.
-  HELP COMMANDS SECTION.
+  ᴀɴʏ ᴏɴᴇ ᴡᴀɴᴛ ᴛᴏ ʙʀᴏᴀᴅᴄᴀꜱᴛ ᴛʜᴀɴ ᴄᴏɴᴛᴀᴄᴛ   [ɪɴꜰɪɴɪᴛʏ](https://t.me/Buyer_infinity)  ᴀɴᴅ ʙᴜʏ ʙʀᴏᴀᴅᴄᴀꜱᴛ.
+ ʜᴇʟᴘ ᴄᴏᴍᴍᴀɴᴅꜱ ꜱᴇᴄᴛɪᴏɴ.
 
-  ⬤ /gcast ➥ BROADCAST YOUR MASSAGE FORM BOT.
+  ⬤ /gcast ➥ ʙʀᴏᴀᴅᴄᴀꜱᴛ ʏᴏᴜʀ ᴍᴇꜱꜱᴀɢᴇ ꜰᴏʀᴍ ʙᴏᴛ.
   """
 
 
 HELP_18 = """
-TRANSLATE COMMAND 
-⬤ /tr ➥ TRANSLATE YOUR LANGUAGE IN ENGLISH.
+ᴛʀᴀɴꜱʟᴀᴛᴇ ᴄᴏᴍᴍᴀɴᴅ 
+⬤ /tr ➥ ᴛʀᴀɴꜱʟᴀᴛᴇ ʏᴏᴜʀ ʟᴀɴɢᴜᴀɢᴇ ɪɴ ᴇɴɢʟɪꜱʜ.
 """
 
 
 HELP_19 = """
-SIMPLE DELETE ACCOUNT KICKED FOR YOUR GROUP
-⬤ /zombies ➥ DELETE ACCOUNT KICK FOR YOUR GROUP
+ꜱɪᴍᴘʟᴇ ᴅᴇʟᴇᴛᴇᴅ ᴀᴄᴄᴏᴜɴᴛ ᴋɪᴄᴋᴇᴅ ꜰʀᴏᴍ ʏᴏᴜʀ ɢʀᴏᴜᴘ
+⬤ /zombies ➥ ᴅᴇʟᴇᴛᴇ ᴀᴄᴄᴏᴜɴᴛ ᴋɪᴄᴋᴇᴅ ꜰʀᴏᴍ ʏᴏᴜʀ ɢʀᴏᴜᴘ
 """
 
 HELP_20 = """
@@ -215,5 +215,5 @@ HELP_20 = """
 HELP_21 = """
 Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 ⬤ /sʟᴀᴘ ➥ Sʟᴀᴘs sᴏᴍᴇᴏɴᴇ. Iғ ᴜsᴇᴅ ᴀs ᴀ ʀᴇᴘʟʏ, sʟᴀᴘs ᴛʜᴇ ʀᴇᴘʟɪᴇᴅ ᴜsᴇʀ.
-⬤ /pat ➥ MAKE A PAT SOMEONE. IF USED AS A REPLY , MAKE PAT THE REPLIES USERS.
+⬤ /pat ➥ ᴍᴀᴋᴇ ᴀ ᴘᴀᴛ ꜱᴏᴍᴇᴏɴᴇ. ɪꜰ ᴜꜱᴇᴅ ᴀꜱ ᴀ ʀᴇᴘʟʏ , ᴍᴀᴋᴇ ᴘᴀᴛ ᴛʜᴇ ʀᴇᴘʟɪᴇꜱ ᴜꜱᴇʀꜱ.
 """
